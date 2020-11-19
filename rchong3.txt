@@ -1,0 +1,3 @@
+Hello, my name is Richard Chong.
+I am a second-year CSE and Music major at UCI.
+I like to study computer algorithms and play violin.
